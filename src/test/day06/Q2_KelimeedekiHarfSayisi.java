@@ -3,7 +3,7 @@ package test.day06;
 import java.util.Scanner;
 
 public class Q2_KelimeedekiHarfSayisi {
-    static String boskova="";
+    static String boskova=""; //bunu niye buraya koydugumu bilmiyorum aşağı koyunca hata veriyor mk
     public static void main(String[] args) {
 
          /*Interview question
