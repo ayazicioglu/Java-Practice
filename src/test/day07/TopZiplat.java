@@ -2,7 +2,7 @@ package test.day07;
 
 import java.util.Scanner;
 
-public class day07_topziplat {
+public class TopZiplat {
     //Bir top belirli yükseklikten atılmaktadır.
     // Atıldıktan sonra, atıldığı yüksekliğin 3/4 u kadar yerden yukarı doğru zıplamaktadır
     // Top zıplama  yüksekliği 1 metrenin altına indiğinde durmaktadır.
